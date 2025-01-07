@@ -27,7 +27,7 @@
 
 1. **下载脚本**：
    ```bash
-   wget https://raw.githubusercontent.com/your-repo/Solana_Sharing_script.sh
+   wget https://raw.githubusercontent.com/vnxfsc/Solana_Sharing_script/refs/heads/main/Solana_Sharing_script.sh
    chmod +x Solana_Sharing_script.sh
    ```
 
